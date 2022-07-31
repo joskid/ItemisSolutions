@@ -1,5 +1,4 @@
-# ItemisSolutions
-Solutions to Itemis' code challenge for Conference Track Management
+#  Conference Track Management
 
 ## Solutions
 Step-1: Read talks input from file (file name configured in 'configuration.py') and create a list of unorganized talks with them.
